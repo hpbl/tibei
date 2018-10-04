@@ -5,7 +5,7 @@ end
 
 def test_pods()
     pod 'Quick', '~> 1.0'
-    pod 'Nimble', '~> 5.0'
+    pod 'Nimble', '~> 6.0'
 end
 
 # Uncomment the next line to define a global platform for your project
